@@ -1,0 +1,39 @@
+{
+  "name": "continua-literature-review",
+  "version": "0.1.0",
+  "description": "Continua Literature Review helps researchers, PhD students, R&D and medical affairs teams, and policy analysts review the literature in Continua Project Rooms. Screen papers against a written protocol with PRISMA 2020 flow counts, extract study data into an evidence table with every value cited to its page, synthesize themes, disagreements, certainty, and research gaps into a cited review or related work draft using up to 1B tokens of working context, check every claim and citation in a manuscript against its sources, and keep a living review current as new papers appear. Files are versioned with recoverable history. Connects to the Continua Project Room MCP server (https://app.askcontinua.com/mcp?subset=mini) and requires a Continua account; access and usage follow your account permissions and plan.",
+  "icon": "./logo.png",
+  "author": {
+    "name": "Continua AI",
+    "url": "https://askcontinua.com"
+  },
+  "homepage": "https://askcontinua.com/project-room",
+  "repository": "https://github.com/ContinuaAI/continua-literature-review",
+  "documentationUrl": "https://askcontinua.com/project-room",
+  "supportUrl": "https://askcontinua.com/help",
+  "privacyPolicyUrl": "https://app.askcontinua.com/privacy-policy",
+  "termsOfServiceUrl": "https://app.askcontinua.com/terms-of-service",
+  "license": "MIT",
+  "keywords": [
+    "literature review",
+    "systematic review",
+    "scoping review",
+    "PRISMA",
+    "screening",
+    "data extraction",
+    "evidence table",
+    "evidence synthesis",
+    "meta-analysis",
+    "related work",
+    "research gaps",
+    "citation check",
+    "claim verification",
+    "living review",
+    "GRADE",
+    "risk of bias",
+    "academic research",
+    "citations",
+    "project room"
+  ],
+  "mcpServers": "./.mcp.json"
+}
